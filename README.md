@@ -18,6 +18,6 @@
   ---
 
 ## Show Your Support ##
-- Feel free to reach out with any feedback — it's always appreciated!
-- Interested in collaborating on this project? I'd love to connect!
+- Feel free to [reach out]("shreelaxmihegde9@gmail.com") with any feedback — it's always appreciated!
+- Interested in collaborating on this project? I'd love to [connect]("https://github.com/ShreelaxmiHegde")!
 - If you like this project, drop a ⭐ on the repo — it helps a lot!
