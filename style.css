@@ -112,7 +112,7 @@ a {
 
 .box-p1 {
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .box-p2 {
@@ -222,6 +222,28 @@ a {
 
 .album {
     width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.album img {
+    height: 3rem;
+    margin: 0.4rem;
+    opacity: 0.75;
+}
+
+.album-text {
+    line-height: 0.2rem;
+}
+
+.album-text p {
+    font-size: smaller;
+    opacity: 0.75;
+}
+
+.album img:hover {
+    opacity: 1;
 }
 
 .player {
@@ -274,4 +296,23 @@ a {
     background-color: #1bd760;
     border-radius: 50%;
     margin-top: -6px;
+}
+
+.control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.control-icon {
+    height: 3rem;
+    margin: 0.5rem;
+}  
+
+.control-bar {
+    appearance: none;
+    height: 0.2rem;
+    border-radius: 100px;
+    background-color: #ddd;
 }
